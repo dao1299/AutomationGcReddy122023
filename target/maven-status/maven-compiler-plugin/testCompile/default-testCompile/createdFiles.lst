@@ -1,0 +1,14 @@
+core\TestNewVersion.class
+utils\Helper.class
+core\BasePage.class
+listeners\TestListener.class
+core\BaseTest.class
+page\AdminLogin.class
+core\AllureListener2.class
+core\DataProviderTestCase.class
+core\ReportListener.class
+test\AdminLoginTest.class
+page\IndexPage.class
+core\ExcelUtils.class
+page\HomePage.class
+core\AllureListener.class

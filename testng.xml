@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/AutomationGcReddy-master/src/test/java/test/AdminLoginTest.java">
+        <classes>
+            <class name="test.AdminLoginTest">
+                <methods>
+                    <include name="TC_02"/>
+                    <include name="TC_03"/>
+                    <include name="TC_04"/>
+                    <include name="TC_05"/>
+                    <include name="TC_06"/>
+                    <include name="TC_07"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
